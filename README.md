@@ -27,15 +27,15 @@ Initialize the Midas Core Spring Boot project by:
 - Setting up Java 17 and Maven
 - Adding the following dependencies:
 
-  | Dependency                | Version  |
-  |--------------------------|----------|
-  | spring-boot-starter-data-jpa | 3.2.5 |
-  | spring-boot-starter-web     | 3.2.5 |
-  | spring-kafka                | 3.1.4 |
-  | h2                          | 2.2.224 |
-  | spring-boot-starter-test    | 3.2.5 |
-  | spring-kafka-test           | 3.1.4 |
-  | testcontainers-kafka        | 1.19.1 |
+| Dependency                   | Version  |
+|-----------------------------|----------|
+| spring-boot-starter-data-jpa | 3.2.5    |
+| spring-boot-starter-web      | 3.2.5    |
+| spring-kafka                 | 3.1.4    |
+| h2                           | 2.2.224  |
+| spring-boot-starter-test     | 3.2.5    |
+| spring-kafka-test            | 3.1.4    |
+| testcontainers-kafka         | 1.19.1   |
 
 **What I did:**
 - Forked & cloned the starter repo
@@ -141,18 +141,7 @@ Create a REST API endpoint `/balance` that:
 
 ## 📜 Certificate
 
-🧾 [View My JP Morgan Virtual Internship Certificate](# JP Morgan Chase – Midas Core Virtual Internship (Forage)
-
-This repository contains my implementation of the **JP Morgan Chase Software Engineering Virtual Internship** hosted by [Forage]((https://www.linkedin.com/in/vaishnavi-kshirsagar-77687728b/details/certifications/)).  
-The project simulates working on **Midas Core**, a microservice designed to process financial transactions securely and efficiently.
-
-Throughout this internship, I worked on real-world inspired engineering tasks involving:
-- Kafka event stream processing
-- Spring Boot backend development
-- JPA & H2 Database integration
-- REST API development
-- Incentive-based microservice communication
+🎓 [View My JP Morgan Virtual Internship Certificate](https://www.linkedin.com/in/vaishnavi-kshirsagar-77687728b/details/certifications/)
 
 ---
-
 
