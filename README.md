@@ -143,7 +143,7 @@ Create a REST API endpoint `/balance` that:
 
 🧾 [View My JP Morgan Virtual Internship Certificate](# JP Morgan Chase – Midas Core Virtual Internship (Forage)
 
-This repository contains my implementation of the **JP Morgan Chase Software Engineering Virtual Internship** hosted by [Forage]([https://www.theforage.com/](https://www.linkedin.com/in/vaishnavi-kshirsagar-77687728b/details/certifications/)).  
+This repository contains my implementation of the **JP Morgan Chase Software Engineering Virtual Internship** hosted by [Forage]((https://www.linkedin.com/in/vaishnavi-kshirsagar-77687728b/details/certifications/)).  
 The project simulates working on **Midas Core**, a microservice designed to process financial transactions securely and efficiently.
 
 Throughout this internship, I worked on real-world inspired engineering tasks involving:
